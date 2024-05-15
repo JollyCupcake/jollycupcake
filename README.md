@@ -24,10 +24,21 @@ I worked in international companies for over 6 years so my soft skills are on po
 
 
 ### My Courses
-QA Engineer Professional Training Course 
+[QA Engineer Professional Training Course](https://drive.google.com/file/d/1jT_LoGhtwJI4p1HIACJ-35XT-D1FwlUz/view?usp=sharing)
 
-Test Automation Using Selenium and Python
-
-IELTS General Training. Overall Band Score 8.0
+[Test Automation Using Selenium and Python](https://drive.google.com/file/d/1-qOg9Z86GgccP9wcxB939inJcBC7dQn4/view?usp=sharing)
 
 ### Testing Documentation
+Checklists
+Test Cases
+Bug Reports
+Postman Collections
+SQL Queries
+
+
+### Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JollyCupcake&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JollyCupcake&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JollyCupcake&theme=tokyonight)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JollyCupcake&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
