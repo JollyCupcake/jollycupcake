@@ -1,6 +1,9 @@
-![Header](https://github.com/JollyCupcake/jollycupcake/blob/main/assets/photo-1498049860654-af1a5c566876.jpeg)
 
-## I am a QA Engineer
+## Hi, I'm Evgeniia
+### About me
+
+I'm a QA engineer with a strong command of both manual and automated testing. I'm a quick learner and always eager to master new skills and technologies. 
+I worked in international companies for over 6 years so my soft skills are on point, just as my English. I am also quite fun to be around. 
 
 
 ### Languages and tools I use
