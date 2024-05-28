@@ -30,7 +30,7 @@ I worked in international companies for over 6 years so my soft skills are on po
 
 ### Testing Documentation
 - Yandex.Scooter documentation (mindmap, test cases, checklists)
-    - mindmap (logics and interface of the web app) 
+    - mindmap (logic and interface of the web app) 
     - test cases
     - check lists
 - Checklists
