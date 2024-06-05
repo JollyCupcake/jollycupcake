@@ -29,8 +29,8 @@ I worked in international companies for over 6 years so my soft skills are on po
 [Test Automation Using Selenium and Python](https://drive.google.com/file/d/1-qOg9Z86GgccP9wcxB939inJcBC7dQn4/view?usp=sharing)
 
 ### Testing Documentation
-- Yandex.Scooter documentation (mindmap, test cases, checklists)
-    - mindmap (logic and interface of the web app) 
+- Yandex.Scooter documentation
+    - [mindmap (logic and interface of the web app)](https://drive.google.com/file/d/1yZowVEnFqlCTzjg6umRsqhURlGdL4Mxd/view?usp=sharing) 
     - test cases
     - check lists
 - Checklists
