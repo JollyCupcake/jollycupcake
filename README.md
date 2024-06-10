@@ -32,7 +32,7 @@ I worked in international companies for over 6 years so my soft skills are on po
 - Yandex.Scooter documentation
     - [mindmap (logic and interface of the web app)](https://drive.google.com/file/d/1yZowVEnFqlCTzjg6umRsqhURlGdL4Mxd/view?usp=sharing) 
     - [test cases, check lists for web, mobile, API](https://docs.google.com/spreadsheets/d/19-Z-al6dRfdRfmOnC0hX7VyFGn8luo-pui5n25udBmI/edit?usp=sharing)
-- Checklists
+- [Checklists (web, mobile, API)](https://docs.google.com/spreadsheets/d/14Mths581y5qeXpTMFUvDfHrvohNBviqCIm0IfT2b5jM/edit?usp=sharing)
 - [Test Cases](https://docs.google.com/spreadsheets/d/1mWVLIt-zlpNxQJoBRlBZzBAJfd-cbXdm28PPv9op1pw/edit?usp=sharing)
 - Bug Reports
 - Postman Collections
