@@ -34,10 +34,10 @@ I worked in international companies for over 6 years so my soft skills are on po
     - [test cases, check lists for web, mobile, API](https://docs.google.com/spreadsheets/d/19-Z-al6dRfdRfmOnC0hX7VyFGn8luo-pui5n25udBmI/edit?usp=sharing)
 - [Checklists (web, mobile, API)](https://docs.google.com/spreadsheets/d/14Mths581y5qeXpTMFUvDfHrvohNBviqCIm0IfT2b5jM/edit?usp=sharing)
 - [Test Cases](https://docs.google.com/spreadsheets/d/1mWVLIt-zlpNxQJoBRlBZzBAJfd-cbXdm28PPv9op1pw/edit?usp=sharing)
+- [Postman Collections](https://elements.getpostman.com/redirect?entityId=36221835-5b0f480a-e981-4f6b-a04d-731576f99323&entityType=collection)
 <!-- - Bug Reports 
-- Postman Collections
 - SQL Queries 
-these examples will be added later-->
+these examples will be added later -->
 
 
 
