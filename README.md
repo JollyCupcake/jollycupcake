@@ -2,7 +2,7 @@
 ## Hi, I'm Evgeniia
 ### About me
 
-I'm a QA engineer with a strong command of both manual and automated testing. I'm a quick learner and always eager to master new skills and technologies. 
+I'm a QA engineer with a strong command of both manual and automated testing. I'm a quick learner and a good listener. 
 I worked in international companies for over 6 years so my soft skills are on point, just as my English. I am also quite fun to be around. 
 
 
