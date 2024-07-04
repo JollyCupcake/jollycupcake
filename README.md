@@ -10,15 +10,17 @@ I worked in international companies for over 6 years so my soft skills are on po
 
 ![Python](https://img.shields.io/badge/Python-87CEFA?style=for-the-badge&logo=python)
 ![Selenium](https://img.shields.io/badge/Selenium-87CEFA?style=for-the-badge&logo=selenium)
-![GitHub](https://img.shields.io/badge/GitHub-87CEFA?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-87CEFA?style=for-the-badge&logo=VSCode)
-![Jira](https://img.shields.io/badge/Jira-87CEFA?style=for-the-badge&logo=jira)
 ![SQL](https://img.shields.io/badge/SQL-87CEFA?style=for-the-badge&logo=sql)
+![VSCode](https://img.shields.io/badge/VSCode-87CEFA?style=for-the-badge&logo=VSCode)
+![Charles Proxy](https://img.shields.io/badge/Charles-87CEFA?style=for-the-badge&logo=Charles)
+![DevTools](https://img.shields.io/badge/DevTools-87CEFA?style=for-the-badge&logo=DevTools)
+![Postman](https://img.shields.io/badge/Postman-87CEFA?style=for-the-badge&logo=Postman)
 ![HTML](https://img.shields.io/badge/HTML-87CEFA?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/CSS-87CEFA?style=for-the-badge&logo=css)
-![Figma](https://img.shields.io/badge/Figma-87CEFA?style=for-the-badge&logo=Figma)
-![DevTools](https://img.shields.io/badge/DevTools-87CEFA?style=for-the-badge&logo=DevTools)
+![Jira](https://img.shields.io/badge/Jira-87CEFA?style=for-the-badge&logo=jira)
 ![Redmine](https://img.shields.io/badge/Redmine-87CEFA?style=for-the-badge&logo=Redmine)
+![Figma](https://img.shields.io/badge/Figma-87CEFA?style=for-the-badge&logo=Figma)
+![GitHub](https://img.shields.io/badge/GitHub-87CEFA?style=for-the-badge&logo=github)
 
 
 
