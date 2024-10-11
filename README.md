@@ -2,8 +2,7 @@
 ## Hi, I'm Evgeniia
 ### About me
 
-I'm a QA engineer with a strong command of both manual and automated testing. I'm a quick learner and a good listener. 
-I worked in international companies for over 6 years so my soft skills are on point, just as my English. I am also quite fun to be around. 
+I'm a QA engineer with a strong command of manual testing web apps and API. Currently, I’m actively learning automation on Python to further expand my expertise. My strengths include meticulousness, critical and analytical thinking, ability to self-learn, and very good English (C1, IELTS Band 8). I excel at creating quality test documentation, planning, prioritizing tasks, and collaborating with people. I am also quite fun to be around :)  
 
 
 ### Languages and tools I use
